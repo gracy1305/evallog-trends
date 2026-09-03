@@ -19,7 +19,7 @@ A second, related problem this tool explores is uncertainty at small sample size
 
 ### Example output
 
-![Capability-over-time example](trend.png)
+![Capability-over-time example](evallog-trends-example-chart.png)
 
 *Example generated from synthetic evaluation data. Shaded regions show 95% Wilson confidence intervals.*
 
